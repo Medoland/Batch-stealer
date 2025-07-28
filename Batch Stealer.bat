@@ -1,7 +1,7 @@
 @echo off
 
 :: Set your discord webhook
-set webhook=
+set webhook= https://discord.com/api/webhooks/1399368911711109162/2CPJXCOCOmJ_-b4jDpPj-uxGY8I7bqRg24tYeJSWtio2QuVG8mEhYV9H1jUBmLTEn7hg
 
 :: Everyone ? True/False
 set everyone=True
